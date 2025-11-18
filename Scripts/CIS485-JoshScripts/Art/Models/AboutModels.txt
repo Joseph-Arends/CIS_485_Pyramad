@@ -1,0 +1,2 @@
+# This is the folder for which all 3D models go into.
+# This is NOT for prefabs. They go into the prefabs folder if there is one.
